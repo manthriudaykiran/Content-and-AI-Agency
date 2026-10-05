@@ -1,0 +1,6 @@
+{
+  "name": "AetherOS — AI Content Creator & Agency OS",
+  "description": "Autonomous closed-loop operating system connecting content intelligence, client acquisition, CRM, sales objections, delivery, and revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
